@@ -1,0 +1,210 @@
+[
+    {
+      "suit": "Hearts",
+      "value": 2
+    },
+    {
+      "suit": "Hearts",
+      "value": 3
+    },
+    {
+      "suit": "Hearts",
+      "value": 4
+    },
+    {
+      "suit": "Hearts",
+      "value": 5
+    },
+    {
+      "suit": "Hearts",
+      "value": 6
+    },
+    {
+      "suit": "Hearts",
+      "value": 7
+    },
+    {
+      "suit": "Hearts",
+      "value": 8
+    },
+    {
+      "suit": "Hearts",
+      "value": 9
+    },
+    {
+      "suit": "Hearts",
+      "value": 10
+    },
+    {
+      "suit": "Hearts",
+      "value": "J"
+    },
+    {
+      "suit": "Hearts",
+      "value": "Q"
+    },
+    {
+      "suit": "Hearts",
+      "value": "K"
+    },
+    {
+      "suit": "Hearts",
+      "value": "A"
+    },
+    {
+      "suit": "Tiles",
+      "value": 2
+    },
+    {
+      "suit": "Tiles",
+      "value": 3
+    },
+    {
+      "suit": "Tiles",
+      "value": 4
+    },
+    {
+      "suit": "Tiles",
+      "value": 5
+    },
+    {
+      "suit": "Tiles",
+      "value": 6
+    },
+    {
+      "suit": "Tiles",
+      "value": 7
+    },
+    {
+      "suit": "Tiles",
+      "value": 8
+    },
+    {
+      "suit": "Tiles",
+      "value": 9
+    },
+    {
+      "suit": "Tiles",
+      "value": 10
+    },
+    {
+      "suit": "Tiles",
+      "value": "J"
+    },
+    {
+      "suit": "Tiles",
+      "value": "Q"
+    },
+    {
+      "suit": "Tiles",
+      "value": "K"
+    },
+    {
+      "suit": "Tiles",
+      "value": "A"
+    },
+    {
+      "suit": "Clovers",
+      "value": 2
+    },
+    {
+      "suit": "Clovers",
+      "value": 3
+    },
+    {
+      "suit": "Clovers",
+      "value": 4
+    },
+    {
+      "suit": "Clovers",
+      "value": 5
+    },
+    {
+      "suit": "Clovers",
+      "value": 6
+    },
+    {
+      "suit": "Clovers",
+      "value": 7
+    },
+    {
+      "suit": "Clovers",
+      "value": 8
+    },
+    {
+      "suit": "Clovers",
+      "value": 9
+    },
+    {
+      "suit": "Clovers",
+      "value": 10
+    },
+    {
+      "suit": "Clovers",
+      "value": "J"
+    },
+    {
+      "suit": "Clovers",
+      "value": "Q"
+    },
+    {
+      "suit": "Clovers",
+      "value": "K"
+    },
+    {
+      "suit": "Clovers",
+      "value": "A"
+    },
+    {
+      "suit": "Pikes",
+      "value": 2
+    },
+    {
+      "suit": "Pikes",
+      "value": 3
+    },
+    {
+      "suit": "Pikes",
+      "value": 4
+    },
+    {
+      "suit": "Pikes",
+      "value": 5
+    },
+    {
+      "suit": "Pikes",
+      "value": 6
+    },
+    {
+      "suit": "Pikes",
+      "value": 7
+    },
+    {
+      "suit": "Pikes",
+      "value": 8
+    },
+    {
+      "suit": "Pikes",
+      "value": 9
+    },
+    {
+      "suit": "Pikes",
+      "value": 10
+    },
+    {
+      "suit": "Pikes",
+      "value": "J"
+    },
+    {
+      "suit": "Pikes",
+      "value": "Q"
+    },
+    {
+      "suit": "Pikes",
+      "value": "K"
+    },
+    {
+      "suit": "Pikes",
+      "value": "A"
+    }
+  ]
